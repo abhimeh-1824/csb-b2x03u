@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhimeh-1824.github.io/csb-b2x03u/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://abhimeh-1824.github.io/csb-b2x03u/static/js/main.27742eb6.chunk.js",
+    "main.js.map": "https://abhimeh-1824.github.io/csb-b2x03u/static/js/main.27742eb6.chunk.js.map",
+    "runtime-main.js": "https://abhimeh-1824.github.io/csb-b2x03u/static/js/runtime-main.44fa7d99.js",
+    "runtime-main.js.map": "https://abhimeh-1824.github.io/csb-b2x03u/static/js/runtime-main.44fa7d99.js.map",
+    "static/js/2.38130849.chunk.js": "https://abhimeh-1824.github.io/csb-b2x03u/static/js/2.38130849.chunk.js",
+    "static/js/2.38130849.chunk.js.map": "https://abhimeh-1824.github.io/csb-b2x03u/static/js/2.38130849.chunk.js.map",
+    "index.html": "https://abhimeh-1824.github.io/csb-b2x03u/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://abhimeh-1824.github.io/csb-b2x03u/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.38130849.chunk.js.LICENSE.txt": "https://abhimeh-1824.github.io/csb-b2x03u/static/js/2.38130849.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44fa7d99.js",
+    "static/js/2.38130849.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.27742eb6.chunk.js"
+  ]
+}
